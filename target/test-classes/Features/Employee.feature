@@ -14,7 +14,7 @@ Scenario: Add a new employee to company
 	Then User can view Add new employee page "https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee"
 	When User enter employee details
 	| firstName | middleName | lastName | empId  | userName     | status   | password  |
-    | John      | M          | Honai43  | 112293 | john.honai43 | enabled  | honai1234 |
+    | John      | M          | Honai44  | 112294 | john.honai44 | enabled  | honai1234 |
 	And User click on Save button
 	Then User can see the success message "Success"
 
