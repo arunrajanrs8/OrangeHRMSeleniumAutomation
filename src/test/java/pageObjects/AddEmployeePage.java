@@ -25,7 +25,7 @@ public class AddEmployeePage  {
 	By firstNameTxt = By.name("firstName");
 	By middleNameTxt = By.name("middleName");
 	By lastNameTxt = By.name("lastName");
-	By empIDTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/input");
+	By empIDTxt = By.xpath("//label[text()='Employee Id']/following::input[1]");
 	By loginDtlsToggle = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span");
 	By userNameTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input");
 	By statusRadioBtn = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div/label");

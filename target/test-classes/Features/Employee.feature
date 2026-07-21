@@ -14,15 +14,15 @@ Scenario: Add a new employee to company
 	Then User can view Add new employee page "https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee"
 	When User enter employee details
 	| firstName | middleName | lastName | empId  | userName     | status   | password  |
-    | John      | M          | Honai44  | 112294 | john.honai44 | enabled  | honai1234 |
+    | John      | M          | Honai45  | 112295 | john.honai45 | enabled  | honai1234 |
 	And User click on Save button
 	Then User can see the success message "Success"
 
 @regression
 Scenario: Search an Employee by EmployeeId
-	And User enter EmployeeId "112293"
+	And User enter EmployeeId "112295"
 	And User click on search button
-	Then User see the employee details of "112293"
+	Then User see the employee details of "112295"
 	
 @regression
 Scenario: Search an Employee by Invalid EmployeeId

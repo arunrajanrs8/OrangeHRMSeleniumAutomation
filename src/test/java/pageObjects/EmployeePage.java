@@ -24,14 +24,14 @@ public class EmployeePage {
 		waitHelper = new WaitHelper(driver);
 	}
 
-	By addEmpBtn = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[2]/div[1]/button");
+	By addEmpBtn = By.xpath("//button[text()= ' Add ']");
 	By successToast = By.cssSelector(".oxd-toast--success");
 	By successToastMsg = By.xpath("//p[contains(@class,'oxd-toast-content-text') and contains(@class,'oxd-text--toast-title')]\"");
 	By infoToast = By.xpath("//p[contains(@class,'oxd-text--toast-title')]");
 	By infoToastMsg = By.xpath("//p[contains(@class,'oxd-text--toast-message')]");
 	
-	By empIdTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/input");
-	By searchEmpBtn = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[2]/button[2]");
+	By empIdTxt = By.xpath("//label[text()='Employee Id']/following::input[1]");
+	By searchEmpBtn = By.xpath("//button[text()=' Search ']");
 	
 	By empTable = By.xpath("//div[@class='oxd-table-body']");
 	By empTableRows = By.xpath("//div[@class='oxd-table-body']//div[@role='row']");

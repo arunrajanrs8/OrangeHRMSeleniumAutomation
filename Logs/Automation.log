@@ -295,3 +295,114 @@ Session ID: c8551c7156b06b9e0881df052f44dddc
 2026-07-11 10:07:40 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
 2026-07-11 10:07:44 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
 2026-07-11 10:07:44 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:26:07 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:26:07 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:26:14 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:26:14 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:27:08 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:27:08 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:27:19 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:27:19 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:27:31 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:27:31 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:27:40 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:27:40 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:28:15 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:28:15 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:28:23 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:28:23 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:28:35 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:28:35 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:28:42 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:28:42 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:30:31 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:30:31 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:30:41 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:30:42 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:31:09 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:31:09 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:31:15 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:31:16 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: dfgsjsjdh
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0295
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0312
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 01715
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0360
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0367
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0303
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0292
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0320
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 00392
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0363
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0290
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0294
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 09557
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 1235
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: ATPValue
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0315hh
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0365
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0367010
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0303
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0361
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0323
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0317
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0322
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0359
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0335
+2026-07-21 15:31:35 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0321
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0364
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0342
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0315
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: muser
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0308
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0301
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0264
+2026-07-21 15:31:36 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 0001
+2026-07-21 15:31:38 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:31:38 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:31:43 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:31:43 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:31:56 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:31:56 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:32:03 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:32:03 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 15:32:17 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 15:32:17 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 15:32:27 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 15:32:27 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 16:22:10 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 16:22:10 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 16:22:15 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 16:22:15 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 16:22:32 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 16:22:32 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 16:22:37 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 16:22:38 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 16:22:47 [main] INFO  pageObjects.EmployeePage - Employee ID From UI: 112295
+2026-07-21 16:22:49 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 16:22:49 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 16:22:53 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 16:22:53 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 16:23:04 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 16:23:04 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 16:23:09 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 16:23:09 [main] INFO  stepDefinitions.LoginSteps - CLicking login button
+2026-07-21 16:23:15 [main] INFO  stepDefinitions.LoginSteps - Launching browser
+2026-07-21 16:23:15 [main] INFO  stepDefinitions.LoginSteps - Opening Orange HRM Login page
+2026-07-21 16:23:18 [main] INFO  stepDefinitions.LoginSteps - Enter email and password
+2026-07-21 16:23:18 [main] INFO  stepDefinitions.LoginSteps - CLicking login button

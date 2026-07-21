@@ -21,15 +21,15 @@ public class DashBoardPage {
 		waitHelper = new WaitHelper(driver);
 	}
 	
-	@FindBy(xpath="//*[@id=\"app\"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span/p")
+	By pimMenu = By.xpath("//span[text()='PIM']");
+	
+	@FindBy(xpath="//span[@class='oxd-userdropdown-tab']/i")
 	WebElement clickProfile;
 	
-	@FindBy(xpath="//*[@id=\"app\"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/ul/li[4]/a")
+	@FindBy(xpath="//ul[@role='menu']/li[4]")
 	WebElement logOutBtn;
 	
-	By pimMenu = By.xpath("//*[@id=\"app\"]/div[1]/div[1]/aside/nav/div[2]/ul/li[2]/a/span");
 	
-
 	public void logOutUser() {
 		clickProfile.click();
 		logOutBtn.click();	
