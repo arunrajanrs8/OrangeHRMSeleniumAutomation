@@ -6,6 +6,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
@@ -79,6 +80,8 @@ public class EmployeePage {
 	            retry++;
 	            logger.info("Retrying due to stale DOM. Attempt: "+retry);
 	            waitHelper.waitForElementbyPath(empTable, Duration.ofSeconds(10));
+	        } catch (TimeoutException te) {
+	            logger.info("Selenium Timeout Exception thrown after element not found in DOM");
 	        }
 	    }
 	    return empPresent;
