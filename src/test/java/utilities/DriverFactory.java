@@ -11,7 +11,7 @@ public class DriverFactory {
 
     public static void initDriver(String browser) {
     	
-    	switch (browser) {
+    	switch (browser.toLowerCase().trim()) {
         case "chrome":
         	driver.set(new ChromeDriver());
             getDriver().manage().window().maximize();

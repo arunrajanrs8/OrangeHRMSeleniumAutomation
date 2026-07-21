@@ -26,12 +26,12 @@ public class AddEmployeePage  {
 	By middleNameTxt = By.name("middleName");
 	By lastNameTxt = By.name("lastName");
 	By empIDTxt = By.xpath("//label[text()='Employee Id']/following::input[1]");
-	By loginDtlsToggle = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span");
-	By userNameTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input");
-	By statusRadioBtn = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div/label");
-	By passwordTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input");
-	By confirmPwdTxt = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input");
-	By saveBtn = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]");
+	By loginDtlsToggle = By.xpath("//input[@type='checkbox']/following-sibling::span");
+	By userNameTxt = By.xpath("//label[text()='Username']/following::input[1]");
+	By statusRadioBtn = By.xpath("//label/input[@type='radio' and @value='1']/following-sibling::span");
+	By passwordTxt = By.xpath("//label[text()='Password']/following::input[1]");
+	By confirmPwdTxt = By.xpath("//label[text()='Confirm Password']/following::input[1]");
+	By saveBtn = By.xpath("//div[@class='oxd-form-actions']/button[2]");
 	
 	
 	public String getPageUrl() {

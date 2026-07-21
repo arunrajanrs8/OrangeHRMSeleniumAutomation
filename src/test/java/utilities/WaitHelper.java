@@ -11,7 +11,7 @@ import org.openqa.selenium.JavascriptExecutor;
 
 public class WaitHelper {
 
-	public WebDriver driver;
+	private WebDriver driver;
 
 	public WaitHelper(WebDriver driver) {
 		this.driver = driver;

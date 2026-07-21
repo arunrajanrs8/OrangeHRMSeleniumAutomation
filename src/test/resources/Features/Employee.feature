@@ -1,6 +1,6 @@
 Feature: Add, Search and Update Employee
 
-Background: UserLogin to the application
+Background: User Login to the application and reach dashboard
 	Given User launch Chrome browser
 	When User opens url
 	And User enters email as "Admin" and password as "admin123"
@@ -14,15 +14,15 @@ Scenario: Add a new employee to company
 	Then User can view Add new employee page "https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee"
 	When User enter employee details
 	| firstName | middleName | lastName | empId  | userName     | status   | password  |
-    | John      | M          | Honai46  | 112296 | john.honai46 | enabled  | honai1234 |
+    | John      | M          | Honai47  | 112297 | john.honai47 | enabled  | honai1234 |
 	And User click on Save button
 	Then User can see the success message "Success"
 
 @regression
 Scenario: Search an Employee by EmployeeId
-	And User enter EmployeeId "112296"
+	And User enter EmployeeId "112297"
 	And User click on search button
-	Then User see the employee details of "112296"
+	Then User see the employee details of "112297"
 	
 @regression
 Scenario: Search an Employee by Invalid EmployeeId
